@@ -1,1 +1,1 @@
-# https://github.com/Product-info-page-using-SCSS
+# https://sanjayp2002.github.io/Product-info/
